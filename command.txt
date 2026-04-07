@@ -1,0 +1,2 @@
+SHELL commands
+cd, cd /, cd .., cd ~, pwd, ls, ls -la, mkdir, touch, rm -rf name, nano, vim, cat
