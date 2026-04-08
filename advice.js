@@ -1,8 +1,3 @@
-/* callback funtion:
-    define      call 
-    callback    function 
-*/
-
 const moment = require('moment'); // require
 const time = moment().format("DD MM YYYY HH:mm:ss");
 
@@ -27,7 +22,7 @@ function giveAdvice(age, callback) {
 }
 
 // call
-giveAdvice("100", (err, data) => {
+giveAdvice(25, (err, data) => {
     if(err) console.log("ERROR:", err);
     else {
         console.log("data:", data);

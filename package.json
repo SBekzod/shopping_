@@ -7,6 +7,7 @@
     "start": "node index.js",
     "compute": "node compute.js",
     "advice": "nodemon advice.js",
+    "suggest": "nodemon suggest.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MARTIN",
