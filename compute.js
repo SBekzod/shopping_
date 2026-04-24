@@ -1,4 +1,4 @@
-/* callback funtion:
+/* callback function:
     define      call 
     callback    function 
 */

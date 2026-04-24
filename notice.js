@@ -7,7 +7,7 @@ Frontend Development:
     - SPA (React/Angular/Vue)
 
 API REQUEST:
-    - Design > Traditional API | Rest API | GraphQL API
-    - Method > GET | POST
+    - Design    > Traditional API | Rest API | GraphQL API
+    - Method    > GET | POST
     - Structure > header | body
 */
